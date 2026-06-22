@@ -1,1 +1,1 @@
-# B-o-C-o
+# Bao Cao mon Tri tue nhan tao (AI)
